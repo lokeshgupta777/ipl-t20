@@ -1,0 +1,62 @@
+[
+  {
+    "id": 2,
+    "name": "Chennai Super Kings",
+    "code": "CSK",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/2/2.png"
+  },
+  {
+    "id": 3,
+    "name": "Delhi Capitals",
+    "code": "DC",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/3/3.png"
+  },
+  {
+    "id": 4,
+    "name": "Punjab Kings",
+    "code": "PBKS",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/4/4.png"
+  },
+  {
+    "id": 5,
+    "name": "Kolkata Knight Riders",
+    "code": "KKR",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/5/5.png"
+  },
+  {
+    "id": 6,
+    "name": "Mumbai Indians",
+    "code": "MI",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/6/6.png"
+  },
+  {
+    "id": 7,
+    "name": "Rajasthan Royals",
+    "code": "RR",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/7/7.png"
+  },
+  {
+    "id": 8,
+    "name": "Royal Challengers Bengaluru",
+    "code": "RCB",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/8/8.png"
+  },
+  {
+    "id": 9,
+    "name": "Sunrisers Hyderabad",
+    "code": "SRH",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/9/9.png"
+  },
+  {
+    "id": 1976,
+    "name": "Gujarat Titans",
+    "code": "GT",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/24/1976.png"
+  },
+  {
+    "id": 1979,
+    "name": "Lucknow Super Giants",
+    "code": "LSG",
+    "image_path": "https://cdn.sportmonks.com/images/cricket/teams/27/1979.png"
+  }
+]
