@@ -15,8 +15,9 @@ const Dashboard = () => {
         <Tabs
           variant="fullWidth"
           onActiveTabChange={(tab) => setActiveTab(tab)}
+          className="[&>*:last-child]:overflow-auto"
         >
-          <TabItem title="Live/Upcoming">
+          <TabItem title="Live / Upcoming">
             <LiveUpcoming />
           </TabItem>
           <TabItem title="Points Table">

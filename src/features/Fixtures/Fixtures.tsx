@@ -24,7 +24,7 @@ const Fixtures = ({ isActive }: IFixturesProps) => {
       <Spinner />
     </div>
   ) : (
-    <div className="flex flex-wrap gap-y-4 gap-x-4 justify-between">
+    <div className="flex flex-wrap gap-y-4 gap-x-4">
       {data?.map((fixtureData) => (
         <FixturesCard {...fixtureData} key={fixtureData.id} />
       ))}
